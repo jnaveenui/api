@@ -1,0 +1,18 @@
+{
+    "employee": [
+      {
+        "fullname": "test",
+        "email": "jnaveenapp@gmail.com",
+        "phone": "4534534",
+        "gender": "male",
+        "id": 7
+      },
+      {
+        "fullname": "Gowtham",
+        "email": "gowtham@gmail.com",
+        "phone": "53453534",
+        "gender": "male",
+        "id": 8
+      }
+    ]
+  }
